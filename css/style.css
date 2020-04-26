@@ -1,0 +1,198 @@
+body {
+    position: relative;
+    min-height: 1000px;
+    width: 100%;
+    height: 100%; 
+    padding: 0;
+    margin: 0;
+    color:blacks;
+    top: 60px;
+    font-family: 'Lato', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+
+    background-image:url("../images/meds.jpg");
+    background-repeat: no-repeat; 
+    background-size: cover;
+    background-position: center; 
+    background-attachment: fixed;
+    padding-bottom: 0;
+    padding-top: 0;
+    background-color:transparent; 
+    height: 500px; 
+   
+   
+    
+}
+#Background_id {
+    margin-top: 123px;
+}
+
+#vision_id {
+    
+ margin-top: 123px;
+    
+}
+
+
+#LowCost_id{
+    margin-top: 123px;
+}
+
+#tt1 {
+    margin-top: 123px;
+}
+
+#International_deliveries_id {
+    margin-top: 123px;
+}
+
+#Local_Deliveries_id{
+    margin-top: 123px;
+}
+
+#Consultancy_id{
+    margin-top: 123px;
+}
+html {
+    height: 100%;
+    overflow-x: hidden;
+	position:relative;
+}
+#footer_h1 {
+    color: whitesmoke;
+}
+
+#welcome_id{
+    color: whitesmoke;
+}
+
+
+#cc1 {
+    margin-right: auto;
+    
+}
+
+img {
+    border: 0;
+    outline: none;
+    vertical-align: top;
+    max-width: 100%;
+}
+.myfm {
+    margin: auto;
+}
+.navbar{
+    overflow: hidden;
+    background-color:transparent;
+    position:fixed;
+    top:0;
+    z-index: 1;
+    width: 100%;
+}
+
+body.navbar-nav{
+    overflow: hidden;
+    background-color:transparent;
+    color: rgb(228, 33, 211);
+    position: initial;
+    top: 0;
+    width: auto;
+}
+
+intro.block1{
+    align-content: center;
+    top:50px;
+}
+
+
+
+/*section*/
+#intro {
+    background-image: url("../images/covid.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 0;
+    padding-top: 0;
+    z-index: 1;
+    font-size: 13px;
+}
+#intro .descr{
+    font-size: 22px;
+    line-height: 33px;
+    padding-top: 35px;
+    padding-bottom: 34px;
+}
+#intro a.button{
+    margin-bottom: 190px;  
+}
+section#intro h3 {
+    font-size: 25px;
+    line-height: 35px;
+    margin-bottom: 8px;
+    padding-top: 202px;
+}
+#intro .title{
+    font-size: 35px;
+    font-weight: 300;
+    line-height: 52px;
+    padding-top: 17px;
+    padding-bottom: 0;
+}
+#intro .descr h5 {
+    font-size: 22px;
+    line-height: 33px;
+}
+#intro h1 {    
+    font-size: 63px;
+    font-weight: 400;
+    line-height: 1.26;
+    padding-bottom: 7px;
+    margin: 0;
+}
+section#intro .contact-cont form#contactForm button {
+    margin-bottom: 30px;
+    margin-top: 16px;
+    width: 100%;
+    display: block;
+    border-radius: 4px;
+}
+section#intro .contact-cont{
+    font-family: 'Roboto', sans-serif;
+    padding: 0 30px;
+    margin: 63px 0;
+    margin-top: 122px;
+}
+section#intro .contact-cont .form-group input {
+    padding: 0 29px;
+    height: 50px;
+}
+section#intro .contact-cont textarea.form-control{
+    height: 114px;
+    padding: 11px 28px;
+}
+section#intro i.fa.fa-clock{
+    padding-right: 10px;
+}
+
+/*section*/
+section#choose_us {    
+    background:whitesmoke;
+    background-attachment: scroll;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 70px;
+    padding-bottom: 100px;
+}
+section#choose_us .section_title {
+    padding-top: 125px;
+}
+
+
+
+
+
+
